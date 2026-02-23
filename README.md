@@ -38,7 +38,7 @@ I make the assumption you are using Lazy
 
 ```lua
 	{
-		"ThePrimeagen/99",
+		"jameshulett/99",
 		config = function()
 			local _99 = require("99")
 
